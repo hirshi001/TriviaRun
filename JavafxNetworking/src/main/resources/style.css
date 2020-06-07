@@ -1,0 +1,8 @@
+#title{
+    -fx-background-color: green;
+    -fx-font-size: 3em;
+}
+
+.root{
+    -fx-background-color: lightgreen;
+}
