@@ -1,0 +1,36 @@
+How many keys are on a piano?
+81
+10
+49
+108
+1
+Which team won the first super bowl?
+49rs
+Green Bay
+Packer
+Raiders
+3
+How many degrees are in a circle?
+360
+180
+2pi
+pi
+1
+How many radians are in a circle?
+0.5pi
+1pi
+1.5pi
+2pi
+4
+Who is the last Airbender?
+Katara
+Juan
+Aang
+Korra
+3
+How many quarters are needed to have exactly one dollar?
+2
+4
+6
+8
+2

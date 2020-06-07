@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'com.hirshi001'
+version '1.0-SNAPSHOT'
+
+mainClassName = "TriviaRunServer"
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'io.netty', name: 'netty-all', version: '4.1.50.Final'
+}
