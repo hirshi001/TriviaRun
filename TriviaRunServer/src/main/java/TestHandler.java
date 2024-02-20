@@ -1,4 +1,5 @@
 import java.io.IOException;
+import java.security.SecureRandom;
 import java.util.Random;
 
 
@@ -7,7 +8,7 @@ public class TestHandler {
 
     public static String getRandomTest() throws IOException {
 
-        int num = new Random().nextInt(3)+1;
+        int num = new SecureRandom().nextInt(3)+1;
         if(num==1) return Tests.test1;
         if(num==2) return Tests.test2;
         return Tests.test3;
